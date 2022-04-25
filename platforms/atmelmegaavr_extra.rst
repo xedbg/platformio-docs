@@ -29,7 +29,7 @@ Upload using pymcuprog serialUPDI
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 ``pymcuprog`` is a Python-based CLI tool for programming AVR devices with UPDI interface
-using either a Microchip debugger (Atmel-ICE, PowerDebugger, PICkit4, Snap, PKOB nano /
+using either a Microchip debugger (Atmel-ICE, Power Debugger, PICkit4, Snap, PKOB nano /
 nEDBG / Curiosity Nano debugger) or via a standard serial port. It can be installed
 directly in the PlatformIO virtual environment using the following command:
 
