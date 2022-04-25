@@ -66,7 +66,7 @@ Once ``pymcuprog`` is installed it can be used as the uploader via a custom
 More information and a typical circuit diagram can be found in the official
 `pymcuprog repository <https://github.com/microchip-pic-avr-tools/pymcuprog#serial-port-updi-pyupdi>`_.
 
-``pymcuprog`` is maintained by Microchip, and published on GitHub and pypi.org.
+``pymcuprog`` is maintained by Microchip, and published on `GitHub <https://github.com/microchip-pic-avr-tools/pymcuprog>` and `pypi.org <https://pypi.org/project/pymcuprog/>`.
 
 Upload using pyupdi
 ^^^^^^^^^^^^^^^^^^^
